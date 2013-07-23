@@ -1,0 +1,11 @@
+flairs:
+  asterisk:
+    flair: '*'
+    default: after
+    priority:
+    - green
+    - gold
+    - red
+    - blue
+order:
+- asterisk
