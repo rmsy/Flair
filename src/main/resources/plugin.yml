@@ -3,11 +3,6 @@ main: tc.oc.flair.Flair
 version: ${project.version}
 author: Overcast Network 
 
-commands:
-  flair:
-    description: Reloads flairs
-    usage: /<command>
-
 permissions:
   flair.reload:
     description: Allows reloading
